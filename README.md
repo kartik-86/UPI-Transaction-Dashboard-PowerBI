@@ -1,88 +1,108 @@
 # 📊 UPI Transaction Dashboard | Power BI
 
-## 📌 Project Overview
-The **UPI Transaction Dashboard** is an interactive Power BI project that provides comprehensive insights into UPI transactions. The dashboard helps analyze transaction performance, payment methods, banks, transaction status, and user behavior through interactive visualizations.
+> An interactive Business Intelligence dashboard built using Power BI to analyze UPI transaction data and uncover meaningful business insights through interactive visualizations.
 
 ---
 
-## 🎯 Objectives
-- Analyze UPI transaction trends.
-- Monitor successful and failed transactions.
-- Compare payment methods and banks.
-- Identify key transaction insights.
-- Build an interactive dashboard for business analysis.
+## 🚀 Project Overview
 
----
+This project analyzes UPI transaction data using Power BI. The dashboard helps identify transaction trends, payment patterns, bank performance, and customer behavior using interactive reports and KPIs.
 
-## 🛠️ Tools & Technologies
-- Microsoft Power BI Desktop
-- Power Query
-- DAX (Data Analysis Expressions)
-- Microsoft Excel
-- Data Visualization
-
----
-
-## 📈 Dashboard Features
-- KPI Cards
-- Interactive Filters (Slicers)
-- Transaction Analysis
-- Bank-wise Analysis
-- Payment Method Analysis
-- Trend Visualization
-- User-friendly Dashboard
-
----
-
-## 📂 Project Files
-
-| File | Description |
-|------|-------------|
-| UPI Transaction.pbix | Power BI project file |
-| UPI Transactions.xlsx | Dataset used for analysis |
-| screenshots | Dashboard screenshots |
-
----
-
-## 📸 Dashboard Preview
-
-### Dashboard 1
-![Dashboard 1](screenshots/dashboard1.png)
-
-### Dashboard 2
-![Dashboard 2](screenshots/dashboard2.png)
-
-### Dashboard 3
-![Dashboard 3](screenshots/dashboard3.png)
-
----
-
-## 🚀 How to Run
-
-1. Clone this repository.
-2. Open **UPI Transaction.pbix** using Power BI Desktop.
-3. If prompted, reconnect the dataset.
-4. Refresh the data.
-5. Explore the dashboard.
-
----
-
-## 📚 Skills Demonstrated
+The project demonstrates practical skills in:
 
 - Data Cleaning
 - Data Transformation
 - Dashboard Design
-- Data Visualization
-- DAX
-- Power Query
 - Business Intelligence
+- Data Visualization
+- Interactive Reporting
 
 ---
 
-## 👨‍💻 Author
+## 🛠️ Tools & Technologies
 
-**Kartik Umbarkar**
+- Microsoft Power BI
+- Microsoft Excel
+- Power Query
+- DAX
+- Data Visualization
 
-LinkedIn: *(Add your LinkedIn URL)*
+---
 
-GitHub: *(Add your GitHub URL)*
+## 📊 Dashboard Features
+
+- Executive KPI Dashboard
+- Transaction Analysis
+- Bank-wise Performance
+- Payment Method Analysis
+- Interactive Slicers
+- Dynamic Charts
+- Trend Analysis
+
+---
+
+# 📸 Dashboard Preview
+
+## Dashboard 1
+
+![Dashboard 1](Screenshots/Dashboard1.png)
+
+---
+
+## Dashboard 2
+
+![Dashboard 2](Screenshots/Dashboard2.png)
+
+---
+
+## Dashboard 3
+
+![Dashboard 3](Screenshots/Dashboard3.png)
+
+---
+
+## 📂 Repository Structure
+
+```
+UPI-Transaction-Dashboard-PowerBI
+│
+├── UPI Transaction.pbix
+├── UPI Transactions.xlsx
+├── README.md
+└── Screenshots
+    ├── Dashboard1.png
+    ├── Dashboard2.png
+    └── Dashboard3.png
+```
+
+---
+
+## 📈 Business Insights
+
+- Monitor transaction trends
+- Analyze payment method distribution
+- Compare bank performance
+- Identify transaction success and failure patterns
+- Interactive filtering for business analysis
+
+---
+
+## ▶️ How to Use
+
+1. Download this repository.
+2. Open **UPI Transaction.pbix** in Power BI Desktop.
+3. Refresh the dataset if required.
+4. Explore the interactive dashboard.
+
+---
+
+## 💡 Skills Demonstrated
+
+- Power BI
+- DAX
+- Power Query
+- Microsoft Excel
+- Dashboard Development
+- Data Cleaning
+- Business Intelligence
+- Analytical Thinking
