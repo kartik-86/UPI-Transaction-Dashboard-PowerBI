@@ -43,21 +43,16 @@ The project demonstrates practical skills in:
 
 # 📸 Dashboard Preview
 
-## Dashboard 1
+## 📸 Dashboard Preview
 
-![Dashboard 1](Screenshots/Dashboard1.png)
+### Dashboard 1
+![Dashboard 1](UPI%20Transaction%20Dashboard%20Power%20BI/Screenshots/Dashboard1.png)
 
----
+### Dashboard 2
+![Dashboard 2](UPI%20Transaction%20Dashboard%20Power%20BI/Screenshots/Dashboard2.png)
 
-## Dashboard 2
-
-![Dashboard 2](Screenshots/Dashboard2.png)
-
----
-
-## Dashboard 3
-
-![Dashboard 3](Screenshots/Dashboard3.png)
+### Dashboard 3
+![Dashboard 3](UPI%20Transaction%20Dashboard%20Power%20BI/Screenshots/Dashboard3.png)
 
 ---
 
